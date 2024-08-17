@@ -5,7 +5,7 @@ let gridWidth, gridHeight;
 let x0, y0; let margin = 100; 
 
 function preload() {
-  img = loadImage("bridge.jpg");
+  img = loadImage("C7.jpg");
 }
 
 function setup() {
