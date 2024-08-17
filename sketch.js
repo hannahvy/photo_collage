@@ -5,7 +5,7 @@ let gridWidth, gridHeight;
 let x0, y0; let margin = 100; 
 
 function preload() {
-  img = loadImage("C7.jpg");
+  img = loadImage("metropolis.jpeg");
 }
 
 function setup() {
